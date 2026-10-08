@@ -1,0 +1,8 @@
+<html>
+<head>
+	<tiitle>My Website</title>
+</head>
+<body>
+	<p>Hola</p>
+</body>
+</html>
